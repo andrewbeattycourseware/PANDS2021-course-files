@@ -1,0 +1,20 @@
+ERROR:root:this is an error
+CRITICAL:root:hiya
+WARNING:root:dont know joe
+INFO:root:still going
+DEBUG:root:and so is this
+ERROR:root:this is an error
+CRITICAL:root:hiya
+WARNING:root:dont know joe
+INFO:root:still going
+DEBUG:root:and so is this
+root - ERROR - this is an error -  2021-03-10 21:08:17,616 - 20
+root - CRITICAL - hiya -  2021-03-10 21:08:17,616 - 21
+root - WARNING - dont know joe -  2021-03-10 21:08:17,616 - 22
+root - INFO - still going -  2021-03-10 21:08:17,616 - 23
+root - DEBUG - and so is this -  2021-03-10 21:08:17,616 - 24
+2021-03-10 21:09:09,166 - ERROR - this is an error - line: 20
+2021-03-10 21:09:09,166 - CRITICAL - hiya - line: 21
+2021-03-10 21:09:09,166 - WARNING - dont know joe - line: 22
+2021-03-10 21:09:09,166 - INFO - still going - line: 23
+2021-03-10 21:09:09,166 - DEBUG - and so is this - line: 24
